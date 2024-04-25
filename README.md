@@ -1,6 +1,9 @@
 # SportCenter
 
-![View](./scgif.gif)
+
+![scgif](https://github.com/Researcher0619/Patika-Sport-Center/assets/102052449/dd9002f0-c886-423e-9210-61b43bad3715)
+
+
 
 This project is a part of the Patika+ Full Stack Web Development Bootcamp, focusing on the JavaScript section. The SportCenter project is designed as a responsive web application, suitable for both mobile and desktop devices. It aims to provide an optimal user experience across different screen sizes and resolutions.
 
