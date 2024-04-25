@@ -1,7 +1,6 @@
 # SportCenter
 
 
-![scgif](https://github.com/Researcher0619/Patika-Sport-Center/assets/102052449/dd9002f0-c886-423e-9210-61b43bad3715)
 
 
 
